@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Myblog -by reactgo.com',
-    siteUrl: 'https://reactgo.com',
+    title: 'Vanguard Web Solutions',
+    siteUrl: 'http://www.vanguardwebsolutions.com/',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
