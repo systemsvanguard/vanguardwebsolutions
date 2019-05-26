@@ -1,5 +1,7 @@
 # vanguardwebsolutions
-**_UNFINISHED!!!!_**  ~ Vanguard Web Solutions.  Corporate site and SPA blog built on Gatsby.js & React.js, with Bulma CSS framework for styling, and complimented by Fontastic.me generated & FontAwesome 5 icons, and Google Fonts.  Features an image carousel, a Markdown based blog, Fprm to email contact form, and React.js based repeating lists for the code portfolio display.
+**_UNFINISHED!!!!_**  ~ Vanguard Web Solutions.  Corporate site and SPA blog built on Gatsby.js & React.js, with Bulma CSS framework for styling, and complimented by Fontastic.me generated & FontAwesome 5 icons, and Google Fonts.  Features an image carousel, a Markdown based blog, Form to email contact form, and React.js based repeating lists for the code portfolio display.
+
+[Site Demo](http://www.vanguardwebsolutions.com/ "Vanguard Web Solutions ~ Custom web sites with first class service & support")
 
 ## Welcome Page
 ![Vanguard Web Solutions. Built on Gatsby.js abd Bulma CSS](http://ryanhunter.org/images/portfolio/vanguardwebsolutions.png )
