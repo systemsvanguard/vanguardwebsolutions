@@ -1,6 +1,10 @@
 # vanguardwebsolutions
 Vanguard Web Solutions.  Corporate site and SPA blog built on Gatsby.js & React.js, with Bulma CSS framework for styling, and complimented by Fontastic.me generated & FontAwesome 5 icons, and Google Fonts.  Features an image carousel, a Markdown based blog, Fprm to email contact form, and React.js based repeating lists for the code portfolio display.
 
+## Welcome Page
+![Vanguard Web Solutions. Built on Gatsby.js abd Bulma CSS](http://ryanhunter.org/images/portfolio/vanguardwebsolutions.png )
+
+
 ## Steps to Install / Instructions
 
 First, ensure you have Node and NPM installed.  Test your version with the following commands below.  You can install Node.js from https://nodejs.org/en/ and learn more about it at https://en.wikipedia.org/wiki/Node.js .
@@ -61,10 +65,15 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Screenshots
 
-![FullStack Tutorials. Built on Vue.js, Node.js and MySQL](http://ryanhunter.org/images/portfolio/vanguardwebsolutions.png )
+![Vanguard Web Solutions. Built on Gatsby.js abd Bulma CSS](http://ryanhunter.org/images/portfolio/vanguardwebsolutions.png )
+
+
+![Vanguard Web Solutions. Built on Gatsby.js abd Bulma CSS](http://ryanhunter.org/images/portfolio/vanguardwebsolutions2.png )
+
+
+![Vanguard Web Solutions. Built on Gatsby.js abd Bulma CSS](http://ryanhunter.org/images/portfolio/vanguardwebsolutions3.png )
 
 
 ## Main Files & Directories
-![Gatsby.js Main Top Level Files & Directories(http://ryanhunter.org/images/portfolio/gatsbyfilesanddirectories.png.png )
+![Gatsby.js Main Top Level Files & Directories](http://ryanhunter.org/images/portfolio/gatsbyfilesanddirectories.png)
 You'll be editing mainly the files in the src/ and public/ directories.
-
