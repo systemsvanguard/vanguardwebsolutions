@@ -31,7 +31,7 @@ Clone / download the GitHub repo.
 git clone https://github.com/systemsvanguard/vanguardwebsolutions.git 
 ```
 
-Change ('cd') into the new code directory, and use the 'install' command to pull down & install all the project dependencies. When done, run the app locally with the 'develop' command.  It will attemp to run on port 3000 by default.  Test it out by going to http://localhost:3000/ in your favourite web browser. 
+Change ('cd') into the new code directory, and use the 'install' command to pull down & install all the project dependencies. When done, run the app locally with the 'develop' command.  It will attemp to run on port 8000 by default.  Test it out by going to http://localhost:8000/ in your favourite web browser. 
 
 ```sh
 cd vanguardwebsolutions
@@ -46,7 +46,7 @@ Examine, the code, make your own changes, and make it your own.  Enjoy, my fello
 - cd vanguardwebsolutions
 - npm install OR yarn install
 - gatsby develop
-- Runs on port 3000 (if empty) --> http://localhost:3000/
+- Runs on port 8000 (if empty) --> http://localhost:8000/
 
 
 
@@ -63,6 +63,13 @@ Examine, the code, make your own changes, and make it your own.  Enjoy, my fello
 This project is licensed under the terms of the **MIT** license.
 
 
+
+## Main Files & Directories
+![Gatsby.js Main Top Level Files & Directories](http://ryanhunter.org/images/portfolio/gatsbyfilesanddirectories.png)
+You'll be editing mainly the files in the src/ and public/ directories.
+
+
+
 ## Screenshots
 
 ![Vanguard Web Solutions. Built on Gatsby.js abd Bulma CSS](http://ryanhunter.org/images/portfolio/vanguardwebsolutions.png )
@@ -73,7 +80,3 @@ This project is licensed under the terms of the **MIT** license.
 
 ![Vanguard Web Solutions. Built on Gatsby.js abd Bulma CSS](http://ryanhunter.org/images/portfolio/vanguardwebsolutions3.png )
 
-
-## Main Files & Directories
-![Gatsby.js Main Top Level Files & Directories](http://ryanhunter.org/images/portfolio/gatsbyfilesanddirectories.png)
-You'll be editing mainly the files in the src/ and public/ directories.
