@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"My Second Blog Post"},"fields":{"slug":"/second-post/"}}},{"node":{"frontmatter":{"title":"My First Blog Post"},"fields":{"slug":"/my-firstpost/"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"react"}}

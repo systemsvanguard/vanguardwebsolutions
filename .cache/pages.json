@@ -1,0 +1,182 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-about-js",
+        "jsonName": "about-f34",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "appaspcore-133",
+        "path": "/appaspcore/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "appdjango-339",
+        "path": "/appdjango/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "appflask-778",
+        "path": "/appflask/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "apphp-043",
+        "path": "/apphp/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "appspringboot-730",
+        "path": "/appspringboot/"
+    },
+    {
+        "componentChunkName": "component---src-pages-contact-js",
+        "jsonName": "contact-26a",
+        "path": "/contact/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudmean-e2a",
+        "path": "/crudmean/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudmern-0e0",
+        "path": "/crudmern/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudmevn-85e",
+        "path": "/crudmevn/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudmyean-437",
+        "path": "/crudmyean/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudmyern-9fa",
+        "path": "/crudmyern/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudmyevn-42e",
+        "path": "/crudmyevn/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudpean-2a5",
+        "path": "/crudpean/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudpern-a85",
+        "path": "/crudpern/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "crudpevn-353",
+        "path": "/crudpevn/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "gatsby-7b7",
+        "path": "/gatsby/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "javascript-19a",
+        "path": "/javascript/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "my-firstpost-448",
+        "path": "/my-firstpost/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "jsonName": "page-2-fbc",
+        "path": "/page-2/"
+    },
+    {
+        "componentChunkName": "component---src-pages-portfolio-js",
+        "jsonName": "portfolio-964",
+        "path": "/portfolio/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "react-0ab",
+        "path": "/react/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "second-post-adb",
+        "path": "/second-post/"
+    },
+    {
+        "componentChunkName": "component---src-pages-services-js",
+        "jsonName": "services-522",
+        "path": "/services/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "sitebootstrap-a17",
+        "path": "/sitebootstrap/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "sitebulma-ae6",
+        "path": "/sitebulma/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "sitew-3-315",
+        "path": "/sitew3/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "staticmean-924",
+        "path": "/staticmean/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "staticmern-b99",
+        "path": "/staticmern/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "staticmevn-98c",
+        "path": "/staticmevn/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "staticpean-44c",
+        "path": "/staticpean/"
+    },
+    {
+        "componentChunkName": "component---src-pages-tags-js",
+        "jsonName": "tags-275",
+        "path": "/tags/"
+    }
+]

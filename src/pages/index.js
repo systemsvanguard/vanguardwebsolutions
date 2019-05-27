@@ -32,7 +32,7 @@ export const listQuery = graphql`
           }
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM Do YYYY")
+            date(formatString: "YYYY MMMM Do")
             title
           }
         }
